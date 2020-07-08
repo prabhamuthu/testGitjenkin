@@ -4,9 +4,14 @@ import org.junit.Test;
 
     public class TestJenkin {
 
+
         @Test
         public void Testfirst(){
             System.out.println("The first test");
+        }
+        @Test
+        public void Test3(){
+            System.out.println("The 3rd test");
         }
 
         @Test
