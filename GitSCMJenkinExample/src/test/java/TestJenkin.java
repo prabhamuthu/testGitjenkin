@@ -8,6 +8,7 @@ import org.junit.Test;
         @Test
         public void Testfirst(){
             System.out.println("The first test");
+            System.out.println("tes eeeee");
         }
         @Test
         public void Test3(){
